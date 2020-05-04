@@ -6,7 +6,7 @@ Vamos com os fatos, eu sou horrível no batalha naval e eu jogava um joguinho de
 
 O jogo é bem simples, você busca um oponente e depois de encontra-lo os jogadores posicionam seus navios de diferentes formas e tamanhos por um campo de 10x10 e quando os dois estiverem prontos começam a tentar afundar os navios do oponente por turnos.
 
-## Desenolvimento
+## Desenvolvimento
 Bom, como um bom programador eu pensei em criar um auxiliar que da sugestões de onde estão os navios do oponente através de probabilidade, veja bem, é como se eu tivesse um amigo ao lado me dando sugestões, não é hacker, outras pessoas tinham seres humanos dando palpites, eu só tinha a matemática através da programação hahaha.
 
 Então eu apresento a vocês <b>O Auxiliador</b>
@@ -17,7 +17,7 @@ Ele funciona assim, no campo 10x10 existem vários números, quanto maior for o 
 simulando jogo em andamento:
 <img alt="O Auxiliar" title="O Auxiliador" src=".github/simulando-navios-afundados.png" />
 
-Outro fato interessante é que o auxiliador exclui automaticamente areas que não cabem os navios que ainda estão vivos. Veja bem que essa imagem a seguir eu simulei uma área que dentre os navios que estão vivos só cabe um:
+Outro fato interessante é que o auxiliador exclui automaticamente áreas que não cabem os navios que ainda estão "vivos". Veja bem que essa imagem a seguir eu simulei uma área que dentre os navios que estão vivos só cabe um:
 <img alt="O Auxiliar" title="O Auxiliar" src=".github/cabe-um.png" />
 
 Agora eu vou clicar somente em um quadradinho dessa área e logicamente ele vai excluir toda a área, pois não cabe nenhum formato de navios "vivos" dentro dela:
