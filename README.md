@@ -9,7 +9,7 @@ O jogo é bem simples, você busca um oponente e depois de encontra-lo os jogado
 ## Desenolvimento
 Bom, como um bom programador eu pensei em criar um auxiliar que da sugestões de onde estão os navios do oponente através de probabilidade, veja bem, é como se eu tivesse um amigo ao lado me dando sugestões, não é hacker, outras pessoas tinham seres humanos dando palpites, eu só tinha a matemática através da programação hahaha.
 
-Então eu aprenseto a vocês <b>O Auxiliador</b>
+Então eu apresento a vocês <b>O Auxiliador</b>
 <img alt="O Auxiliar" title="O Auxiliar" src=".github/o-auxiliador.png" />
 
 Ele funciona assim, no campo 10x10 existem vários números, quanto maior for o número maior é a probabilidade de ter um navio, o maior número está de azul para facilitar a visualização, a probabilidade é calculada dinamicamente de acordo com os navios que ainda estão "vivos" e as areas que ainda estão livres, então a cada tiro que você der no jogo você deve atirar tambem no auxiliador, a esquerda você tem de forma visual os navios que estão "vivos", conforme for afundando os navios é só exclui-lo clicando nele, assim vai ser calculado a probabilidade sem usar os navios que ja foram afundados.
