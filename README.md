@@ -7,7 +7,7 @@ Vamos com os fatos, eu sou horrível no batalha naval e eu jogava um joguinho de
 O jogo é bem simples, você busca um oponente e depois de encontra-lo os jogadores posicionam seus navios de diferentes formas e tamanhos por um campo de 10x10 e quando os dois estiverem prontos começam a tentar afundar os navios do oponente por turnos.
 
 ## Desenvolvimento
-Bom, como um bom programador eu pensei em criar um auxiliar que da sugestões de onde estão os navios do oponente através de probabilidade, veja bem, é como se eu tivesse um amigo ao lado me dando sugestões, não é hacker, outras pessoas tinham seres humanos dando palpites, eu só tinha a matemática através da programação hahaha.
+Bom, como um bom programador eu pensei em criar um auxiliar que da sugestões de onde estão os navios do oponente através de probabilidade, veja bem, é como se eu tivesse um amigo ao lado me dando sugestões, não é hacker, outras pessoas tinham seres humanos dando palpites, eu só tinha a matemática através da programação hahaha ;D.
 
 Então eu apresento a vocês <b>O Auxiliador</b>
 <img alt="O Auxiliar" title="O Auxiliar" src=".github/o-auxiliador.png" />
