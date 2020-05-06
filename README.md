@@ -27,3 +27,5 @@ Agora eu vou clicar somente em um quadradinho dessa área e logicamente ele vai 
 Minha porcentagem de vitória subiu de 40% para uns 70%, logicamente nem todos os jogos eu ganhava pois alem da probabilidade existe o fator sorte hahaha.
 
 Hoje em dia eu não jogo mais, mas eu lembro que foi um projeto bem desafiador e divertido de fazer na época.
+
+link: [https://matheusfd3.github.io/auxiliar-batalha-naval/](https://matheusfd3.github.io/auxiliar-batalha-naval/)
